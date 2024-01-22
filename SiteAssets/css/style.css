@@ -7,20 +7,20 @@ html {
 }
 
 ::selection {
-    background-color: rgb(255, 42, 208);
+    background-color: #9f8854;
     -webkit-text-fill-color: #ffffff;
     color: #ffffff;
 }
 
 ::-moz-selection {
-    background-color: rgb(255, 42, 208);
+    background-color: #9f8854;
     color: #ffffff;
     -webkit-text-fill-color: #ffffff;
 
 }
 
 ::-webkit-selection {
-    background-color: rgb(255, 42, 208);
+    background-color: #9f8854;
     -webkit-text-fill-color: #ffffff;
     color: #ffffff;
 }
@@ -161,8 +161,6 @@ header.navbar .navbar-brand img {
 
 header.navbar-dark .navbar-nav .nav-link {
     text-transform: uppercase;
-    letter-spacing: .08em;
-    font-weight: 900;
     margin: 0 0.75rem;
     padding: 0;
     transition: all .3s ease-in-out;
@@ -464,7 +462,7 @@ header.navbar.scroll .search {
 
 .slider .item figcaption .slide-title-2 {
     font-weight: 800;
-    font-size: 75px;
+    font-size: 55px;
     /* width: 533px; */
 }
 
